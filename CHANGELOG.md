@@ -6,6 +6,7 @@
 ### Fixed
 * Fixed issue with links to documentation and anchor tags being escaped in flash mesasges ([#1760](https://github.com/YaleSTC/reservations/issues/1760)).
 * Fixed issue with recurring blackouts being blocked by old reservations ([#1756](https://github.com/YaleSTC/reservations/issues/1756)).
+* Fixed issue with CSV user importer ([#1765](https://github.com/YaleSTC/reservations/issues/1765)).
 
 ## v6.3.5 - 2018-10-08
 ### Fixed
